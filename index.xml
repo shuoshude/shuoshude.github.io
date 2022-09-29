@@ -8,10 +8,10 @@
         <language>zh-cn</language>
         <lastBuildDate>Mon, 26 Sep 2022 21:59:13 +0800</lastBuildDate><atom:link href="https://ccblog.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>股市小白入门指北</title>
-        <link>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%E6%8C%87%E5%8C%97/</link>
+        <link>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A8/</link>
         <pubDate>Mon, 26 Sep 2022 21:59:13 +0800</pubDate>
         
-        <guid>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%B0%8F%E7%99%BD%E5%85%A5%E9%97%A8%E6%8C%87%E5%8C%97/</guid>
+        <guid>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A8/</guid>
         <description>&lt;h2 id=&#34;定义&#34;&gt;定义&lt;/h2&gt;
 &lt;p&gt;股票是一种有价证券，代表着持有人（股东）对股份有限公司的所有权（同股同权、不同股不同权）。股票可以上市也可以不上市，上市公司的股票可以在二级市场自由流通，是普通人主要投资的对象。&lt;/p&gt;
 &lt;h2 id=&#34;基本规则&#34;&gt;基本规则&lt;/h2&gt;
@@ -20,18 +20,20 @@
 中国大陆共有三个交易所：上海证券交易所、深圳证券交易所、北京证券交易所。
 上交所（沪市）：主板、科创板
 深交所（深市）：主板、创业板
-北交所：比较特殊（原新三板）
-###股票代码
-6位数代码
+北交所：比较特殊（原新三板）&lt;/p&gt;
+&lt;h3 id=&#34;股票代码&#34;&gt;股票代码&lt;/h3&gt;
+&lt;p&gt;6位数代码
 创业板：300开头
 沪市主板A股：600、601、603开头
 深市主板A股：00开头
 科创板：688开头
-北交所：8开头、4开头
-###券商
-经营证券交易的公司，相当于交易所的代理商，股票交易前需在券商开户。年满18岁，储蓄卡即可开户。
-###指数
-一箩筐股票的综合指标，比如上证指数：以上证所挂牌上市的全部股票为计算范围，以发行量为权数的加权综合股价指数。
+北交所：8开头、4开头&lt;/p&gt;
+&lt;h3 id=&#34;券商&#34;&gt;券商&lt;/h3&gt;
+&lt;p&gt;经营证券交易的公司，相当于交易所的代理商，股票交易前需在券商开户。年满18岁，储蓄卡即可开户。&lt;/p&gt;
+&lt;h3 id=&#34;行情软件&#34;&gt;行情软件&lt;/h3&gt;
+&lt;p&gt;各券商app都提供行情和交易功能，但大部分券商软件比较难用。所以需要使用专业的行情交易软件如：同花顺（pc、移动端）、通达信、大智慧、东方财富等等，具体行情软件使用请参照个软件手册&lt;/p&gt;
+&lt;h3 id=&#34;指数&#34;&gt;指数&lt;/h3&gt;
+&lt;p&gt;一箩筐股票的综合指标，比如上证指数：以上证所挂牌上市的全部股票为计算范围，以发行量为权数的加权综合股价指数。
 其余依次类推&lt;/p&gt;
 &lt;h2 id=&#34;交易规则&#34;&gt;交易规则&lt;/h2&gt;
 &lt;h3 id=&#34;交易时间&#34;&gt;交易时间&lt;/h3&gt;
@@ -55,95 +57,6 @@
 3.券商交易佣金：原则上来说每家券商的佣金都是不一定的，最低5元起，单笔交易佣金不满5元按5元收取（详情可咨询券商）
 ps：券商费率最低可低至万1免5，但很少，一般万1.2&lt;/p&gt;
 &lt;p&gt;假设您买入1000股，每股股价为10元，为“6”开头的上海股票卖出时的股价刚好也为10元。那么在此过程中：买入成本=过户费+佣金=1+5=6（佣金不满5元按5元计算）卖出成本=过户费+佣金+印花税=1+5+10=16元总共成本=买入成本+卖出成本=6+16=22元&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>https://ccblog.netlify.app/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://ccblog.netlify.app/p/test-chinese/</guid>
-        <description>&lt;img src="https://ccblog.netlify.app/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试&lt;/h2&gt;
-&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://ccblog.netlify.app/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_480x0_resize_q75_box.jpg 480w, https://ccblog.netlify.app/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;  &lt;img src=&#34;https://ccblog.netlify.app/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;https://ccblog.netlify.app/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, https://ccblog.netlify.app/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;https://ccblog.netlify.app/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_480x0_resize_q75_box.jpg 480w, https://ccblog.netlify.app/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;  &lt;img src=&#34;https://ccblog.netlify.app/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://ccblog.netlify.app/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_480x0_resize_q75_box.jpg 480w, https://ccblog.netlify.app/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
