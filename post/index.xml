@@ -6,12 +6,149 @@
         <description>Recent content in Posts on 李小华的人生漫谈</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 26 Sep 2022 21:59:13 +0800</lastBuildDate><atom:link href="https://ccblog.netlify.app/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>股市小白入门指北</title>
-        <link>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A8/</link>
+        <lastBuildDate>Thu, 29 Sep 2022 15:38:51 +0800</lastBuildDate><atom:link href="https://ccblog.netlify.app/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>股市小白入门指北（二）</title>
+        <link>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/</link>
+        <pubDate>Thu, 29 Sep 2022 15:38:51 +0800</pubDate>
+        
+        <guid>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/</guid>
+        <description>&lt;h2 id=&#34;开始交易&#34;&gt;开始交易&lt;/h2&gt;
+&lt;h3 id=&#34;part1-开户&#34;&gt;part1 开户&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;选择一家靠谱的券商&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;佣金&lt;/li&gt;
+&lt;li&gt;场内基金手续费&lt;/li&gt;
+&lt;li&gt;app活跃度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/securities.png&#34;
+	width=&#34;302&#34;
+	height=&#34;494&#34;
+	srcset=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/securities_hucc8d16b503285d37ad1e2f5fd38602cc_75226_480x0_resize_box_3.png 480w, https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/securities_hucc8d16b503285d37ad1e2f5fd38602cc_75226_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;券商app活跃度&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;61&#34;
+		data-flex-basis=&#34;146px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载券商app，准备身份证，个人身份证办理的储蓄卡，安装app流程线上开户&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;part2-银证转账&#34;&gt;part2 银证转账&lt;/h3&gt;
+&lt;p&gt;顾名思义，银行储蓄账户和证券账户之间互相转账，证券账户有钱才能交易。普通银证转账只有在股票交易时间才能转账，且卖出股票后隔天才能转出。（部分券商和银行之间支持24h银证转账，比如平安银行和平安证券之间转账7*24h）&lt;/p&gt;
+&lt;h3 id=&#34;part3-交易软件&#34;&gt;part3 交易软件&lt;/h3&gt;
+&lt;p&gt;以同花顺为例，买卖股票的几个界面&lt;/p&gt;
+&lt;h4 id=&#34;股票交易界面1&#34;&gt;&lt;strong&gt;股票交易界面1&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan1.jpeg&#34;
+	width=&#34;1440&#34;
+	height=&#34;2407&#34;
+	srcset=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan1_hu0f9d3eee9248109b6b12c3ead4570eae_555341_480x0_resize_q75_box.jpeg 480w, https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan1_hu0f9d3eee9248109b6b12c3ead4570eae_555341_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;股票交易界面1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;59&#34;
+		data-flex-basis=&#34;143px&#34;
+	
+&gt;
+宁德时代：股票简称&lt;/p&gt;
+&lt;p&gt;300750：股票代码&lt;/p&gt;
+&lt;p&gt;419.00：股票现价&lt;/p&gt;
+&lt;p&gt;金额（额）：一日交易下来的总金额&lt;/p&gt;
+&lt;p&gt;量比：是衡量相对成交量的指标，它是开市后每分钟平均成交量与过去5个交易日每分钟平均交易量的比值&lt;/p&gt;
+&lt;p&gt;高：即开盘到现在买卖双方成交的最高价格&lt;/p&gt;
+&lt;p&gt;低：开盘到现在买卖双方成交的最低价格&lt;/p&gt;
+&lt;p&gt;开：即当日的开盘价，开盘价是每个交易日的第一笔成交价&lt;/p&gt;
+&lt;p&gt;换：换手率，某一段时期内的成交量/发行总股数×100%，是反映市场交投活跃程度最重要的技术指标之一&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;涨停：股票今日涨停的话，可以达到的价格
+跌停：股票今日跌停的话，可以达到的价格&lt;/p&gt;
+&lt;p&gt;总手：即当日开始成交一直到现在为止总成交手数，一手等于100股。&lt;/p&gt;
+&lt;p&gt;委比：委比是委买手数、委卖手数之差与之和的比值，它是衡量一段时间内买、买强弱的技术指标。委比=（委买手数-委卖手数）/（委买手数+委卖手数），数值范围为-100%-+100%，一般而言，当委比为正值，尤其数值很大时，表示买方比卖方力量强；委比为负值，特别是其绝对值很大时，表示卖方比买方强，指数下跌概率大&lt;/p&gt;
+&lt;p&gt;委买手数：当前所有个股委托买入前三档的手数总和。委托买入的手数比委托卖出的手数多，表示买比卖强，指数向上的概率比较大；委卖手数同理&lt;/p&gt;
+&lt;p&gt;内盘：以买入的报价成交叫内盘，俗称主动性抛盘。当内盘累计数量比外盘累计数量大很多，而股价下跌时，表示很多人在卖出股票&lt;/p&gt;
+&lt;p&gt;外盘：以卖出的报价成交叫外盘，俗称主动性买盘。当外盘累计数量比内盘大很多，而股价上涨时，表示很多人在抢着买进股票。如：外盘32721 内盘 29452，说明当日主动性抛盘远小于主动性买盘，形势对多方有利。&lt;/p&gt;
+&lt;p&gt;流通股：上市公司股份中，可以在交易所流通的股份数量，按市场属性的不同可分为A股、B股、法人股和境外上市股。与流通股对应的，还有非流通股，非流通股股票主要是指暂时不能上市流通的国家股和法人股&lt;/p&gt;
+&lt;p&gt;流通值：可以流通的那部分股票的市值总股本：包括新股发行前的股份和新发行的股份的数量的总和，即流通股和非流通股的总和总市值：总股本数乘以当时股价得出的股票总价值&lt;/p&gt;
+&lt;p&gt;市净率：市净率指的是每股股价与每股净资产的比率。 市净率可用于股票投资分析，一般来说市净率较低的股票，投资价值较高，相反，则投资价值较低&lt;/p&gt;
+&lt;p&gt;市盈率：某种股票每股市价与每股盈利的比率，用来评估股价水平是否合理的指标之一。一般认为，如果一家公司股票的市盈率过高，那么该股票的价格具有泡沫，价值被高估&lt;/p&gt;
+&lt;h4 id=&#34;股票交易界面2&#34;&gt;&lt;strong&gt;股票交易界面2&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan3.jpeg&#34;
+	width=&#34;1440&#34;
+	height=&#34;3200&#34;
+	srcset=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan3_hu42d505f0313af60b6f66938d3a9a9f75_1144475_480x0_resize_q75_box.jpeg 480w, https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan3_hu42d505f0313af60b6f66938d3a9a9f75_1144475_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;股票交易界面2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;45&#34;
+		data-flex-basis=&#34;108px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;图中的黑线和黄线，叫做分时价位线，是当日股价每分钟移动的曲线，俗称分时走势。黑线代表表示该种股票即时实时成交的价格；黄线表示该种股票即时成交的平均价格，即当天成交总金额除以成交总股数&lt;/p&gt;
+&lt;p&gt;五档（level2 10档 500档）：包含卖盘、买盘等候栏该栏中卖一、卖二、卖三依次等候卖出。按照价格优先，时间优先的原则，谁卖出的报价低谁就排在前面，而这一切由电脑自动计算。卖一后面的数字为价格，再后面的数字为股票手数。如卖一 491.01 21.0万 表示在第一排等候卖出的报价是491.01元，共有21万元股票（可以调整显示总金额或总股数）。该栏中买一、买二、买三表示依次等候买进，与卖出相反，谁买进的价格高谁就排在前面。&lt;/p&gt;
+&lt;p&gt;明细：股票最实时成交显示栏：该栏显示一段时间内股票具体成交情况，即几点几分以什么价位成交，成交手数是多少&lt;/p&gt;
+&lt;h4 id=&#34;股票交易界面3&#34;&gt;&lt;strong&gt;股票交易界面3&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan2.jpeg&#34;
+	width=&#34;3200&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan2_hu268f552334db6e1b18558b7902634a32_1225220_480x0_resize_q75_box.jpeg 480w, https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/kanpan2_hu268f552334db6e1b18558b7902634a32_1225220_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;股票交易界面3&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;222&#34;
+		data-flex-basis=&#34;533px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;k线，上面平滑的线叫分时线，红绿柱组成的线叫k线又称蜡烛图。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/k.png&#34;
+	width=&#34;1244&#34;
+	height=&#34;876&#34;
+	srcset=&#34;https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/k_hue462dece19bebd8b03314f5dbcab47c6_682977_480x0_resize_box_3.png 480w, https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A802/k_hue462dece19bebd8b03314f5dbcab47c6_682977_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;k线&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;142&#34;
+		data-flex-basis=&#34;340px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;k线按时间维度可分为 日k、周k、月k等等
+熟练掌握k线的意义，只看k线就可以大致描绘出当日的分时线
+基于k线和均线有一套技术分析的理论&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;均线&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;M5:421.87, M10:418.60 等各色的线
+指一定交易时间内（日、周、月、年）的算术平均线。以5日均线为例，将5日内的收盘价逐日相加，然后除以5，得出5日的平均值，再将这些平均值在图纸上依先后顺序连起来的线就叫5日平均线。有短期（3日、5日、10日线）、中期（20日、30日、60日）、长期（120日，250日）3种形式。在日k线图中，M5、M10、M20，即表示5日、10日、20日均线。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;技术指标
+macd， kdj， boll 等等，暂不展开&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>股市小白入门指北（一）</title>
+        <link>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A801/</link>
         <pubDate>Mon, 26 Sep 2022 21:59:13 +0800</pubDate>
         
-        <guid>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A8/</guid>
+        <guid>https://ccblog.netlify.app/p/%E8%82%A1%E5%B8%82%E5%85%A5%E9%97%A801/</guid>
         <description>&lt;h2 id=&#34;定义&#34;&gt;定义&lt;/h2&gt;
 &lt;p&gt;股票是一种有价证券，代表着持有人（股东）对股份有限公司的所有权（同股同权、不同股不同权）。股票可以上市也可以不上市，上市公司的股票可以在二级市场自由流通，是普通人主要投资的对象。&lt;/p&gt;
 &lt;h2 id=&#34;基本规则&#34;&gt;基本规则&lt;/h2&gt;
